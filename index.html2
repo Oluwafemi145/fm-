@@ -172,7 +172,7 @@
      <script type="text/javascript">000000
      function countdown() {
      const today = new Date();
-     var offerDate = new Date('30 October 2023');
+     var offerDate = new Date('31 December 2023');
      
      //If offer ends reset to new value
      if (today.getSeconds() == offerDate.getSeconds()) {
@@ -287,10 +287,10 @@
      <label for="2bottle"><span></span><b>Two bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 40,000</b></label>
      
      <input type="radio" name="amount" value="3bottle" id="3bottle" />
-     <label for="3bottle"><span></span><b> Three bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 55,000</b><span class="highlighted-text">recomended</span> </label>
+     <label for="3bottle"><span></span><b> Three bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 50,000</b><span class="highlighted-text">recomended</span> </label>
      
      <input type="radio" name="amount" value="4bottle" id="4bottle" />
-     <label for="4bottle"><span></span><b> Four bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 70,000</b> </label>
+     <label for="4bottle"><span></span><b> Four bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 60,000</b> </label>
      
      
      <div class="input-cnt">
@@ -447,7 +447,7 @@
      <script type="text/javascript">000000
      function countdown() {
      const today = new Date();
-     var offerDate = new Date('30 October 2023');
+     var offerDate = new Date('31 December 2023');
      
      //If offer ends reset to new value
      if (today.getSeconds() == offerDate.getSeconds()) {
@@ -765,10 +765,10 @@
      <label for="2bottle"><span></span><b>Two bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 40,000</b></label>
      
      <input type="radio" name="amount" value="3bottle" id="3bottle" />
-     <label for="3bottle"><span></span><b> Three bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 55,000</b> </label>
+     <label for="3bottle"><span></span><b> Three bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 50,000</b> </label>
      
      <input type="radio" name="amount" value="4bottle" id="4bottle" />
-     <label for="4bottle"><span></span><b> Four bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 70,000</b> </label>
+     <label for="4bottle"><span></span><b> Four bottles of the PROSTATE SHRINK SOLUTION CAPSULE &#8358 60,000</b> </label>
      
      
      <div class="input-cnt">
